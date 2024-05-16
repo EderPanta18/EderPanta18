@@ -11,16 +11,16 @@
 
 <hr> 
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="350px" height="200px"></picture>
+
 <br>
-- 📚 I am currently studying at university
-       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💥 Currently learning new technologies like Astro and Node.js
-- 💻 Programming new projects every day
-- 🎧 I love listening to music all the time
-<br>
+
+<p>- 📚 I am currently studying at university <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+<p>- 💥 Currently learning new technologies like Astro and Node.js</p>
+<p>- 💻 Programming new projects every day</p>
+<p>- 🎧 I love listening to music all the time</p>
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <hr>
 
-## Technologies That I Know👨🏻‍💻
+## 👨🏻‍💻 Technologies That I Know
 
 <br>
 
