@@ -1,8 +1,8 @@
 
 <h1 align="center"><b>Hola , Me llamo Eder</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=500&size=25&duration=3000&pause=1003&color=8BF71B&background=3EFF9D00&random=false&width=435&lines=Estudiante+de+ingenier%C3%ADa+inf%C3%B3rmatica;Desarrollador+front-end+autodidacta;CTF+novato" alt="Typing SVG" /></a>
 </p>
 
 
@@ -21,7 +21,9 @@
 - Actualmente aprendiendo Desarrollo Web por cuenta propia
 - Sitio web personal (..pronto)
 - Actualmente me encuentro estudiando 
-<br><br>
+<br>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
