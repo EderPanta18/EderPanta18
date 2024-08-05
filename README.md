@@ -3,7 +3,7 @@
 <h1 align="center" ><b>Hi, I'm Eder</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center" margin="auto">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3CF71D&random=false&width=500&lines=Computer+engineering+student+%F0%9F%92%BB;Self-taught+front-end+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/demo/?font=Roboto-mono&weight=800&size=25&color=4AF743&center=true&vCenter=true&lines=full+stack+programmer;computer+engineering+student" alt="Typing SVG" /></a>
 </p>
 
 <br>
