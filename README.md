@@ -4,7 +4,7 @@
 
 <p align="center" margin="auto">
 	
-<a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&pause=1000&color=1EF7AD&center=true&vCenter=true&width=435&lines=I+like+to+listen+to+music;I+love+programming;I+am+fascinated+by+technology" alt="Typing SVG" /></a>	
+<a  align="center" margin="auto" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&pause=1000&color=1EF7AD&center=true&vCenter=true&width=435&lines=I+like+to+listen+to+music;I+love+programming;I+am+fascinated+by+technology" alt="Typing SVG" /></a>	
 <br>
 
 <br>
