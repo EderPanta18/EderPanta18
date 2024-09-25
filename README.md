@@ -3,9 +3,10 @@
 <h1 align="center" ><b>Hi, I'm Eder</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center" margin="auto">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&pause=1000&color=1EF7AD&width=435&lines=I+like+to+listen+to+music;I+love+programming;I+am+fascinated+by+technology" alt="Typing SVG" /></a>
 	
+<a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&pause=1000&color=1EF7AD&center=true&vCenter=true&width=435&lines=I+like+to+listen+to+music;I+love+programming;I+am+fascinated+by+technology" alt="Typing SVG" /></a>	
 <br>
+
 <br>
 
 <hr> 
