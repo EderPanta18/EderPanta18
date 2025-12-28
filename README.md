@@ -117,16 +117,7 @@
 <h2><b>Contacto</b></h2>
 
 <p align="center">
-  <a href="mailto:ederpanta181005@gmail.com" target="_blank">
-    <img
-      alt="Email"
-      src="https://img.shields.io/static/v1?label=Email&message=ederpanta181005%40gmail.com&style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=EA4335"
-    />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/519XXXXXXXX" target="_blank">
-    <img
-      alt="WhatsApp"
-      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-    />
-  </a>
+  <a href="mailto:ederpanta181005@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?label=Email&message=ederpanta181005%40gmail.com&style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=EA4335"></a>
+  <img width="18" height="1" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <a href="https://wa.me/51902627097"><img alt="WhatsApp" src="https://img.shields.io/static/v1?label=WhatsApp&message=%2B51902627097&style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366"></a>
 </p>
