@@ -13,8 +13,13 @@
   </a>
 </p>
 
+
+
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-<br><br>
+<br>
+
+
 
 <h2><b>Sobre mí</b></h2>
 
@@ -28,35 +33,37 @@
   />
 </picture>
 
-<br>
-
-<p>- Estudio la carrera de ingeniería infórmatica
+<p>- Estudio la carrera de ingeniería infórmatica.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Coding" />
 </p>
-<p>- Desarrollo proyectos en startups todos los días</p>
-<p>- Me encanta escuchar música Synthwave, Indie y Lo-fi</p>
-<p>- Disfruto de juegos desafiantes, incluyendo estrategia, shooters y supervivencia</p>
-<p>- Me gusta leer historias alternativas y novelas que despierten la imaginación</p>
-
+<p>- Desarrollo proyectos en startups diariamente.</p>
+<p>- Me encanta escuchar música Synthwave, Indie y Lo-fi.</p>
+<p>- Disfruto de juegos desafiantes, incluyendo estrategia, shooters y supervivencia.</p>
+<p>- Me gusta leer historias alternativas y novelas que despierten la imaginación.</p>
 <br clear="right" />
 
+
+
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-<br><br>
+<br>
+
+
 
 <h2><b>Tecnologías que conozco</b></h2>
 
 <img
-  align="left"
+  align="right"
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-  width="340"
+  width="320"
   alt="Computador"
 />
 
-<div align="right">
+<div>
   <a href="https://skillicons.dev">
     <img
-      width="500"
-      src="https://skillicons.dev/icons?i=html,css,docker,postgres,github,java,js,mongodb,mysql,nextjs,nodejs,postman,py,react,rust,angular,vue,astro,redux,tailwind,ts,vscode,spring&perline=12"
+      width="520"
+      src="https://skillicons.dev/icons?i=html,css,docker,postgres,github,java,js,mongodb,mysql,nextjs,nodejs,postman,py,react,rust,angular,vue,astro,redux,tailwind,ts,vscode,spring&perline=8"
       alt="Tecnologías"
     />
   </a>
@@ -64,12 +71,16 @@
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-<br><br>
 
-<h2><b>⚙️ Analíticas de GitHub</b></h2>
 
+<!--
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+<br>
+
+
+
+<h2><b>Analíticas de GitHub</b></h2>
 
 <table align="center">
   <tr border="none">
@@ -94,9 +105,14 @@
     </td>
   </tr>
 </table>
+-->
+
 
 <br>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
+<br>
+
+
 
 <h2><b>Contacto</b></h2>
 
