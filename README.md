@@ -23,24 +23,21 @@
 
 <h2><b>Sobre mí</b></h2>
 
-<picture>
+<p align="center">
   <img
-    align="right"
     src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-    width="350px"
-    height="200px"
+    width="350"
     alt="Night Coding"
   />
-</picture>
-
-<p>- Estudio la carrera de ingeniería infórmatica.
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Coding" />
 </p>
-<p>- Desarrollo proyectos en startups diariamente.</p>
-<p>- Me encanta escuchar música Synthwave, Indie y Lo-fi.</p>
-<p>- Disfruto de juegos desafiantes, incluyendo estrategia, shooters y supervivencia.</p>
-<p>- Me gusta leer historias alternativas y novelas que despierten la imaginación.</p>
-<br clear="right" />
+
+<ul>
+  <li>Estudio la carrera de ingeniería informática.</li>
+  <li>Desarrollo proyectos en startups diariamente.</li>
+  <li>Me encanta escuchar música Synthwave, Indie y Lo-fi.</li>
+  <li>Disfruto de juegos desafiantes, incluyendo estrategia, shooters y supervivencia.</li>
+  <li>Me gusta leer historias alternativas y novelas que despierten la imaginación.</li>
+</ul>
 
 
 
@@ -55,21 +52,27 @@
 <img
   align="right"
   src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-  width="320"
+  width="450"
   alt="Computador"
 />
 
-<div>
-  <a href="https://skillicons.dev">
-    <img
-      width="520"
-      src="https://skillicons.dev/icons?i=html,css,docker,postgres,github,java,js,mongodb,mysql,nextjs,nodejs,postman,py,react,rust,angular,vue,astro,redux,tailwind,ts,vscode,spring&perline=8"
-      alt="Tecnologías"
-    />
-  </a>
-</div>
+<h3>Frontend</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular&perline=8" />
+</a>
+
+<h3>Backend & DB</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,nodejs,java,maven,gradle,spring,hibernate,postgres,mysql,sqlserver,mongodb,supabase&perline=8" />
+</a>
+
+<h3>Herramientas & DevOps</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,debian,bash,postman,docker,vercel,discord,notion,pnpm&perline=8" />
+</a>
 
 <br clear="both"/>
+
 
 
 
