@@ -49,29 +49,26 @@
 
 <h2><b>Tecnologías que conozco</b></h2>
 
-<img
-  align="right"
-  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-  width="450"
-  alt="Computador"
-/>
-
 <h3>Frontend</h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular&perline=8" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular&perline=12" />
+  </a>
+</p>
 
 <h3>Backend & DB</h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,java,maven,gradle,spring,hibernate,postgres,mysql,mongodb,supabase&perline=8" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,nodejs,java,maven,gradle,spring,hibernate,postgres,mysql,mongodb,supabase&perline=12" />
+  </a>
+</p>
 
 <h3>Herramientas & DevOps</h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,debian,bash,postman,docker,vercel,discord,notion,pnpm&perline=8" />
-</a>
-
-<br clear="both"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,debian,bash,postman,docker,vercel,discord,notion,pnpm&perline=12" />
+  </a>
+</p>
 
 
 
