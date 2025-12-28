@@ -63,7 +63,7 @@
 
 <h3>Backend & DB</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,java,maven,gradle,spring,hibernate,postgres,mysql,sqlserver,mongodb,supabase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,java,maven,gradle,spring,hibernate,postgres,mysql,mongodb,supabase&perline=8" />
 </a>
 
 <h3>Herramientas & DevOps</h3>
