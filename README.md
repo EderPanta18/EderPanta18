@@ -1,13 +1,13 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<h1 align="center"><b>Hola, soy EdeRev</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Saludo" />
+<h1 align="center"><b>Hi, I'm EdeRev</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Greeting" />
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=1EF71D&center=true&vCenter=true&width=600&lines=La+m%C3%BAsica+siempre+forma+parte+de+mi+d%C3%ADa+a+d%C3%ADa.;Soy+de+los+que+amanece+programando.;Me+gustan+los+videojuegos+desafiantes.;Vivo+entre+c%C3%B3digos%2C+algoritmos+y+soluciones."
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=1EF71D&center=true&vCenter=true&width=600&lines=Music+is+always+part+of+my+daily+life.;I+am+the+kind+of+person+who+codes+until+sunrise.;I+enjoy+challenging+video+games.;I+live+among+code%2C+algorithms%2C+and+solutions."
       alt="Typing SVG"
     />
   </a>
@@ -21,7 +21,7 @@
 
 
 
-<h2><b>Sobre mí</b></h2>
+<h2><b>About Me</b></h2>
 
 <p align="center">
   <img
@@ -32,12 +32,13 @@
 </p>
 
 <ul>
-  <li>Estudio la carrera de ingeniería informática.</li>
-  <li>Desarrollo proyectos en startups diariamente.</li>
-  <li>Me encanta escuchar música Synthwave, Indie y Lo-fi.</li>
-  <li>Disfruto de juegos desafiantes, incluyendo estrategia, shooters y supervivencia.</li>
-  <li>Me gusta leer historias alternativas y novelas que despierten la imaginación.</li>
+  <li>I study Computer Engineering.</li>
+  <li>I love listening to Synthwave, Indie, and Lo-fi music.</li>
+  <li>I enjoy challenging games, especially strategy, shooters, and survival titles.</li>
+  <li>I like reading alternative stories that spark the imagination.</li>
+  <li>I like keeping my projects organized and well-structured.</li>
 </ul>
+
 
 
 
@@ -47,7 +48,7 @@
 
 
 
-<h2><b>Tecnologías que conozco</b></h2>
+<h2><b>Technologies I Know</b></h2>
 
 <h3>Frontend</h3>
 <p align="center">
@@ -63,7 +64,7 @@
   </a>
 </p>
 
-<h3>Herramientas & DevOps</h3>
+<h3>Tools & DevOps</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,debian,bash,postman,docker,vercel,discord,notion,pnpm&perline=12" />
@@ -80,7 +81,7 @@
 
 
 
-<h2><b>Analíticas de GitHub</b></h2>
+<h2><b>GitHub Analytics</b></h2>
 
 <table align="center">
   <tr border="none">
@@ -114,7 +115,7 @@
 
 
 
-<h2><b>Contacto</b></h2>
+<h2><b>Contact</b></h2>
 
 <p align="center">
   <a href="mailto:ederpanta181005@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?label=Email&message=ederpanta181005%40gmail.com&style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=EA4335"></a>
