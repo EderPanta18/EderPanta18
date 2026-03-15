@@ -60,14 +60,14 @@
 <h3>Backend & DB</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nodejs,java,maven,gradle,spring,hibernate,postgres,mysql,mongodb,supabase&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,nodejs,nestjs,java,maven,gradle,spring,hibernate,postgres,mysql,mongodb,supabase&perline=12" />
   </a>
 </p>
 
 <h3>Tools & DevOps</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,debian,bash,postman,docker,vercel,discord,notion,pnpm&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,bash,postman,docker,vercel,discord,notion,pnpm&perline=12" />
   </a>
 </p>
 
