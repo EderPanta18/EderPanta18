@@ -119,6 +119,4 @@
 
 <p align="center">
   <a href="mailto:ederpanta181005@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?label=Email&message=ederpanta181005%40gmail.com&style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=EA4335"></a>
-  <img width="18" height="1" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  <a href="https://wa.me/51902627097"><img alt="WhatsApp" src="https://img.shields.io/static/v1?label=WhatsApp&message=%2B51902627097&style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&color=25D366"></a>
 </p>
